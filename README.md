@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TonyMarzano
 - 👀 I’m interestined  in play basketball
-- 🌱 I’m currently learning  to develop websites with HTML and CSS
+- 🌱 I’m currently learning  to develop websites with HTML, CSS and JS
 
 - 📫 How to reach me on instagram @santimarzano
 
